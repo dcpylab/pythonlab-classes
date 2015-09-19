@@ -2,6 +2,11 @@
 # PYlab 2015-0919 
 # 
 # session led by Nathan Danielsen
+"""
+Data support the fivethirtyeight blog story:
+http://fivethirtyeight.com/datalab/every-guest-jon-stewart-ever-had-on-the-daily-show/
+"""
+
 
 # Starter Code
 import os
